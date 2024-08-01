@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # storesalephone
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Flutter_TechPhoneStore
+>>>>>>> 675f0a7a77c5eb2fc9f3a82d47eb2e8cebfa87ba
