@@ -1,0 +1,360 @@
+{
+  "brand": [
+    {
+      "id": 0,
+      "name": "SamSung",
+      "img": "https://th.bing.com/th/id/OIP.fVnWoABNKGiYBiPUQ6Hj2gHaE8?w=1771&h=1181&rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 1,
+      "name": "Iphone",
+      "img": "https://th.bing.com/th/id/OIP.pW0TOZyl_OZMIuo5HjUsyQHaIf?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 2,
+      "name": "Oppo",
+      "img": "https://pluspng.com/img-png/oppo-logo-png-img-oppo-logo-in-svg-vector-or-png-file-format-logo-wine-3000x2000.png"
+    },
+    {
+      "id": 3,
+      "name": "Redmi",
+      "img": "https://th.bing.com/th/id/OIP.Nph34A3E8a5BjrvixKlP4gHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 4,
+      "name": "OnePlus",
+      "img": "https://img.technews.tw/wp-content/uploads/2015/09/OnePlus_logo.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Redmi",
+      "img": "https://th.bing.com/th/id/OIP.Nph34A3E8a5BjrvixKlP4gHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 6,
+      "name": "OnePlus",
+      "img": "https://img.technews.tw/wp-content/uploads/2015/09/OnePlus_logo.jpg"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "des": "Điện thoại iPhone 15 Pro Max 1TB mới là một sự kết hợp hoàn hảo giữa thiết kế đẳng cấp và hiệu năng vượt trội. Với dung lượng lưu trữ lớn đến 1TB, người dùng có đủ không gian cho hàng ngàn hình ảnh, video và ứng dụng yêu thích. Điểm đáng chú ý là sự tích hợp của chip A17 Pro tiên tiến giúp chiếc điện thoại iPhone 15 phiên bản cao cấp nhất này hoạt động mượt mà và xử lý nhanh chóng mọi tác vụ.",
+      "name": "Điện thoại iPhone 15 Pro",
+      "color": {
+        "id": 0,
+        "name": "Trắng",
+        "imgs": [
+          "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+          "https://www.zdnet.com/a/img/resize/3a700db2a52577751185dc0d5f78ef8e10a65981/2023/09/13/750409b0-0d4e-4bc9-90f2-16565bae042c/iphone-15-pro-max-white-1.jpg?auto=webp&width=1280",
+          "https://cdn.shopify.com/s/files/1/1696/1045/files/iphone15concept_1024x1024.jpg?v=1686944844"
+        ]
+      },
+      "memory": {
+        "id": 0,
+        "name": "1TB",
+        "colors": [
+          {
+            "id": 0,
+            "name": "Trắng",
+            "imgs": [
+              "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+              "https://www.zdnet.com/a/img/resize/3a700db2a52577751185dc0d5f78ef8e10a65981/2023/09/13/750409b0-0d4e-4bc9-90f2-16565bae042c/iphone-15-pro-max-white-1.jpg?auto=webp&width=1280",
+              "https://cdn.shopify.com/s/files/1/1696/1045/files/iphone15concept_1024x1024.jpg?v=1686944844"
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Đen",
+            "imgs": [
+              "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone-15-128-gbden.png",
+              "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone-15-128-gbden.png",
+              "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone-15-128-gbden.png"
+            ]
+          }
+        ]
+      },
+      "cpu": "A13",
+      "sold": 29,
+      "price": 25000000,
+      "ram": "256 GB",
+      "display": "6.1 inch",
+      "camera": "14PW",
+      "battery": "2000mh",
+      "system": "IOS",
+      "memories": [
+        {
+          "id": 0,
+          "name": "1TB",
+          "colors": [
+            {
+              "id": 0,
+              "name": "Trắng",
+              "imgs": [
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+                "https://www.zdnet.com/a/img/resize/3a700db2a52577751185dc0d5f78ef8e10a65981/2023/09/13/750409b0-0d4e-4bc9-90f2-16565bae042c/iphone-15-pro-max-white-1.jpg?auto=webp&width=1280",
+                "https://cdn.shopify.com/s/files/1/1696/1045/files/iphone15concept_1024x1024.jpg?v=1686944844"
+              ]
+            },
+            {
+              "id": 1,
+              "name": "Đen",
+              "imgs": [
+                "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone-15-128-gbden.png",
+                "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone-15-128-gbden.png",
+                "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone-15-128-gbden.png"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "512GB",
+          "colors": [
+            {
+              "id": 1,
+              "name": "Đen",
+              "imgs": [
+                "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone-15-128-gbden.png",
+                "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone-15-128-gbden.png",
+                "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone-15-128-gbden.png"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Điện thoại iPhone 15 Pro",
+      "des": "Điện thoại iPhone 15 Pro Max 1TB mới là một sự kết hợp hoàn hảo giữa thiết kế đẳng cấp và hiệu năng vượt trội. Với dung lượng lưu trữ lớn đến 1TB, người dùng có đủ không gian cho hàng ngàn hình ảnh, video và ứng dụng yêu thích. Điểm đáng chú ý là sự tích hợp của chip A17 Pro tiên tiến giúp chiếc điện thoại iPhone 15 phiên bản cao cấp nhất này hoạt động mượt mà và xử lý nhanh chóng mọi tác vụ.",
+      "color": {
+        "id": 1,
+        "name": "Đen",
+        "imgs": [
+          "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+          "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+          "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+        ]
+      },
+      "memory": {
+        "id": 0,
+        "name": "1TB",
+        "colors": [
+          {
+            "id": 0,
+            "name": "Đen",
+            "imgs": [
+              "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+              "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+              "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Đen",
+            "imgs": [
+              "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+              "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+              "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+            ]
+          }
+        ]
+      },
+      "cpu": "A13",
+      "sold": 29,
+      "price": 24000000,
+      "ram": "256 GB",
+      "display": "6.1 inch",
+      "camera": "14PW",
+      "battery": "2000mh",
+      "system": "IOS",
+      "memories": [
+        {
+          "id": 0,
+          "name": "1TB",
+          "colors": [
+            {
+              "id": 0,
+              "name": "Đen",
+              "imgs": [
+                "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+              ]
+            },
+            {
+              "id": 1,
+              "name": "Đen",
+              "imgs": [
+                "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "512GB",
+          "colors": [
+            {
+              "id": 0,
+              "name": "Đen",
+              "imgs": [
+                "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+              ]
+            },
+            {
+              "id": 1,
+              "name": "Đen",
+              "imgs": [
+                "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "128BG",
+          "colors": [
+            {
+              "id": 0,
+              "name": "Đen",
+              "imgs": []
+            },
+            {
+              "id": 1,
+              "name": "Đen",
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Điện thoại iPhone 15 Pro",
+      "des": "Điện thoại iPhone 15 Pro Max 1TB mới là một sự kết hợp hoàn hảo giữa thiết kế đẳng cấp và hiệu năng vượt trội. Với dung lượng lưu trữ lớn đến 1TB, người dùng có đủ không gian cho hàng ngàn hình ảnh, video và ứng dụng yêu thích. Điểm đáng chú ý là sự tích hợp của chip A17 Pro tiên tiến giúp chiếc điện thoại iPhone 15 phiên bản cao cấp nhất này hoạt động mượt mà và xử lý nhanh chóng mọi tác vụ.",
+      "color": {
+        "id": 1,
+        "name": "Vàng",
+        "imgs": [
+          "https://img-prd-pim.poorvika.com/product/apple-iphone-15-plus-yellow-128gb-front-back-view.png",
+          "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+          "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+        ]
+      },
+      "memory": {
+        "id": 0,
+        "name": "1TB",
+        "colors": [
+          {
+            "id": 0,
+            "name": "Đen",
+            "imgs": [
+              "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+              "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+              "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Đen",
+            "imgs": [
+              "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+              "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+              "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+            ]
+          }
+        ]
+      },
+      "cpu": "A13",
+      "sold": 29,
+      "price": 21000000,
+      "ram": "256 GB",
+      "display": "6.1 inch",
+      "camera": "14PW",
+      "battery": "2000mh",
+      "system": "IOS",
+      "memories": [
+        {
+          "id": 0,
+          "name": "1TB",
+          "colors": [
+            {
+              "id": 0,
+              "name": "Đen",
+              "imgs": [
+                "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+              ]
+            },
+            {
+              "id": 1,
+              "name": "Đen",
+              "imgs": [
+                "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "512GB",
+          "colors": [
+            {
+              "id": 0,
+              "name": "Đen",
+              "imgs": [
+                "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+              ]
+            },
+            {
+              "id": 1,
+              "name": "Đen",
+              "imgs": [
+                "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "128BG",
+          "colors": [
+            {
+              "id": 0,
+              "name": "Đen",
+              "imgs": [
+                "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+              ]
+            },
+            {
+              "id": 1,
+              "name": "Đen",
+              "imgs": [
+                "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-plus-black.png",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg",
+                "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-white-thumbnew-600x600.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
